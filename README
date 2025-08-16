@@ -3,3 +3,9 @@
 Uma classe só deveria ter um único motivo para mudar. 
 
 foi criando uma classe feedback, onde a unica função será apenas para distribuir os feedbacks no curso. E caso alterar a logica de feedback será alterado apenas nela e não no código todo
+
+
+
+## Open closed Principle
+
+Entidades de software ( classes, módulos, funções, etc) devem ser abertas para expansão, porém, fechadas para modificações
