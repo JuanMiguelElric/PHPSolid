@@ -9,3 +9,7 @@ foi criando uma classe feedback, onde a unica função será apenas para distrib
 ## Open closed Principle
 
 Entidades de software ( classes, módulos, funções, etc) devem ser abertas para expansão, porém, fechadas para modificações
+
+## Liskov
+
+Liskov foi uma mulher, eu vou explicar um pouco melhor, mas ela disse que se, seja q(x) uma propriedade que se pode provar do objeto x do tipo T. Então q(y) também é possível provar para o objeto y do tipo S, sendo S um subtipo de T. Essa foi a frase dita pela Barbara Liskov.
